@@ -1,6 +1,3 @@
-#include maps/_utility;
-#include common_scripts/utility;
-
 init() {
     level thread OnPlayerConnect();
 }
