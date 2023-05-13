@@ -6,8 +6,7 @@ init() {
 }
 
 OnPlayerConnect() {
-    for(;;)
-    {
+    for(;;) {
         level waittill("connected", player);
 
         player thread OnPlayerSpawned();
