@@ -1,3 +1,3 @@
-# hi
+# Disclaimer
 
-i have no idea if these work im banned rn
+You'll have to compile these yourself.
